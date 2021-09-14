@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/watches.pk/static/css/main.5a1f46f7.chunk.css",
+    "main.js": "/watches.pk/static/js/main.c969accb.chunk.js",
+    "main.js.map": "/watches.pk/static/js/main.c969accb.chunk.js.map",
+    "runtime-main.js": "/watches.pk/static/js/runtime-main.44404971.js",
+    "runtime-main.js.map": "/watches.pk/static/js/runtime-main.44404971.js.map",
+    "static/js/2.5a1b5b24.chunk.js": "/watches.pk/static/js/2.5a1b5b24.chunk.js",
+    "static/js/2.5a1b5b24.chunk.js.map": "/watches.pk/static/js/2.5a1b5b24.chunk.js.map",
+    "static/js/3.425db54f.chunk.js": "/watches.pk/static/js/3.425db54f.chunk.js",
+    "static/js/3.425db54f.chunk.js.map": "/watches.pk/static/js/3.425db54f.chunk.js.map",
+    "index.html": "/watches.pk/index.html",
+    "static/css/main.5a1f46f7.chunk.css.map": "/watches.pk/static/css/main.5a1f46f7.chunk.css.map",
+    "static/js/2.5a1b5b24.chunk.js.LICENSE.txt": "/watches.pk/static/js/2.5a1b5b24.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/watches.pk/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.44404971.js",
+    "static/js/2.5a1b5b24.chunk.js",
+    "static/css/main.5a1f46f7.chunk.css",
+    "static/js/main.c969accb.chunk.js"
+  ]
+}
